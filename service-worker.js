@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a38d76589064e2eff0caf4a69e03dcf8.js"
+  "/precache-manifest.0d05418dd25940ecddb3138776393f79.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "museums_admin"});
